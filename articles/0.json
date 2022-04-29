@@ -40,5 +40,26 @@
     "author":"金色财经",
     "image":"https://zhouan-ism.github.io/wallet_info/articles/5.png",
     "content":"据CoinGecko数据显示，当前加密货币市值为2.20万亿，24小时交易量为115,884,424,771美元。比特币市值占比为39.0%，以太坊市值占比为18.7%"
+},
+{
+    "title":"绿地集团持有的BAYC#8302最后成交价为140ETH",
+    "timestamp":"1651237121",
+    "author":"金色财经",
+    "image":"https://zhouan-ism.github.io/wallet_info/articles/6.png",
+    "content":"据etherscan数据显示，BAYC#8302最后成交价为140ETH，是0xff3805c开头的地址买入，随后0xff3805c将BAYC#8302转入0x065140开头的地址。数据显示持有BAYC#8302的地址目前还持有14枚AWorld Avatar NFT和8.78个ETH。 此前消息，绿地集团购入无聊猿BAYC#8302，并作为数字化战略NFT形象。"
+},
+{
+    "title":"马斯克已为推特物色新CEO，并计划为推特开发新收入途径",
+    "timestamp":"1651247121",
+    "author":"金色财经",
+    "image":"https://zhouan-ism.github.io/wallet_info/articles/7.png",
+    "content":"马斯克已为推特物色了一位新 CEO，身份暂未透露。此外，马斯克还计划为推特开发通过推文获利的新途径，包括在第三方网站想要引用或嵌入推文时收取费用。（路透社）"
+},
+{
+    "title":"Solana联合创始人：比特币不转向PoS可能会导致最后没有人使用它",
+    "timestamp":"1651257121",
+    "author":"金色财经",
+    "image":"https://zhouan-ism.github.io/wallet_info/articles/8.png",
+    "content":"Watcher.Guru发推表示，Solana联合创始人Anatoly Yakovenko说，如果比特币不转向PoS，那么最终没有人会使用它。"
 }
 ]
