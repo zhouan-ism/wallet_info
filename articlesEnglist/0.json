@@ -1,51 +1,44 @@
 [
 {
-    "title":"test111111",
+    "title":"Coinbase expands by 1,000 people",
     "timestamp":"1651207121",
     "author":"JinSe",
     "image":"https://zhouan-ism.github.io/wallet_info/articles/0.png",
-    "content":"test"
+    "content":"Cryptocurrency exchange Coinbase plans to quadruple its workforce in India by the end of the year,expanding by 1,000 employees at its India tech hub,which it set up last year,CEO Brian Armstrong said in a blog post.In February,the company announced plans to add 2,000 employees in product, engineering and design this year. coinbase Ventures has invested $150 million in India-based technology companies in the crypto and Web3 sectors."
 },
 {
-    "title":"美国司法部从暗网卖家手中扣押3400万美元的加密货币",
+    "title":"U.S. Justice Department Seizes $34 Million in Cryptocurrency from Dark Web Sellers",
     "timestamp":"1651208121",
-    "author":"金色财经",
+    "author":"JinSe",
     "image":"https://zhouan-ism.github.io/wallet_info/articles/1.png",
-    "content":"美国司法部已成功从暗网上的一名卖家手中没收了价值约3400万美元的加密货币，并称这是美国历史上最大的加密货币民事没收文件之一。非法加密货币是从一名南佛罗里达州居民手中查获的，该居民使用在线别名在暗网上的市场上销售超过100,000件非法物品。据说大部分销售额是来自包括HBO、Netflix、Uber等在内的一些主要服务的黑客帐户信息"
+    "content":"The U.S. Department of Justice has successfully seized approximately $34 million worth of cryptocurrency from a seller on the Dark Web, calling it one of the largest civil forfeiture filings of cryptocurrency in U.S. history. The illegal cryptocurrency was seized from a South Florida resident who used an online alias to sell more than 100,000 illegal items on a marketplace on the dark web. Most of the sales are said to have come from hacked account information from a number of major services including HBO, Netflix, Uber and others"
 },
 {
-    "title":"SBF：对马斯克收购后的推特很期待",
+    "title":"SBF: Looking forward to Musk's post-acquisition tweets",
     "timestamp":"1651209121",
-    "author":"金色财经",
+    "author":"JinSe",
     "image":"https://zhouan-ism.github.io/wallet_info/articles/2.png",
-    "content":"FTX首席执行官SBF在FTX巴哈马大会上表示，对马斯克收购后的推特很期待。特别是马斯克或许会决定是否为推特引入WEB3组件，这将不同的社交网络间创造互操作性，不同社交平台的用户数据如果保存在同一区块网络上，将会给用户带来巨大的便利。"
+    "content":"FTX CEO SBF said at the FTX Bahamas conference that he is looking forward to Twitter after Musk's acquisition. In particular, Musk may decide whether to introduce WEB3 component for Twitter, which will create interoperability between different social networks, and user data from different social platforms will bring great convenience to users if they are kept on the same block network."
 },
 {
-    "title":"绿地集团宣布购入无聊猿BAYC#8302",
+    "title":"Greenland Group Announces Purchase of Bored Ape BAYC#8302",
     "timestamp":"1651208121",
-    "author":"金色财经",
+    "author":"JinSe",
     "image":"https://zhouan-ism.github.io/wallet_info/articles/3.png",
-    "content":"4 月 29 日，绿地集团在其官方公众号「绿地 G 优尊享会」上发文宣布已购入无聊猿 BAYC#8302，并将其推出作为绿地集团数字化战略的 NFT 形象。"
+    "content":"On April 29th, Greenland Group announced in a post on its official public website "Greenland G Premium Club" that it had purchased the boring ape BAYC#8302 and launched it as the NFT image for Greenland Group's digital strategy."
 },
 {
-    "title":"ApeCoin发起AIP-21、22和AIP-7三个提案投票",
+    "title":"ApeCoin launches three proposal ballots",
     "timestamp":"1651217121",
-    "author":"金色财经",
+    "author":"JinSe",
     "image":"https://zhouan-ism.github.io/wallet_info/articles/4.png",
-    "content":"ApeCoin 官方宣布已启动 AIP-21、22 和 AIP-7 三个提案投票，旨在进一步指导 DAO 的发展方向，其中 AIP-21、22 涉及质押问题，而 AIP-7 则涉及 ApeCoin DAO 重组。本次投票将于北京时间 5 月 5 日早晨 9 点结束。"
+    "content":"ApeCoin officials announced that they have launched a ballot on proposals AIP-21, 22 and AIP-7 to further guide the direction of the DAO, with AIP-21 and 22 dealing with pledging and AIP-7 dealing with the ApeCoin DAO restructuring. The vote will close at 9 a.m. BST on May 5."
 },
 {
-    "title":"数据：以太坊共识层已质押超过1200万枚ETH，质押率超10%",
+    "title":"Ethernet consensus layer has pledged over 12 million ETH",
     "timestamp":"1651227121",
-    "author":"金色财经",
+    "author":"JinSe",
     "image":"https://zhouan-ism.github.io/wallet_info/articles/5.png",
-    "content":"2 月 23 日，据欧科云链链上大师数据显示，以太坊共识层（原 ETH 2.0）已质押 12,027,426 枚 ETH，质押率达到 10.16%。按照当前以太坊价格计算，有价值超过 349 亿美元的 ETH 质押在以太坊共识层。"
-},
-{
-    "title":"Solana联合创始人：比特币不转向PoS可能会导致最后没有人使用它",
-    "timestamp":"1651257121",
-    "author":"金色财经",
-    "image":"https://zhouan-ism.github.io/wallet_info/articles/8.png",
-    "content":"Watcher.Guru发推表示，Solana联合创始人Anatoly Yakovenko说，如果比特币不转向PoS，那么最终没有人会使用它。"
+    "content":"On February 23, according to the data of OUKEYUNCHAIN on-chain guru, 12,027,426 ETH have been pledged in the Ether consensus layer (former ETH 2.0), with a pledge rate of 10.16%. According to the current Ether price, there are more than $34.9 billion worth of ETH pledged in the Ether consensus layer."
 }
 ]
